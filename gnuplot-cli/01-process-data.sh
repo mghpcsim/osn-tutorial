@@ -1,5 +1,8 @@
 #!/bin/bash
 
+echo "running gnuplot using the anscombe.gnu script"
+echo " $ gnuplot < anscombe.gnu"
+
 gnuplot < anscombe.gnu
 
 ret=$?
