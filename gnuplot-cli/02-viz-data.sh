@@ -13,7 +13,7 @@ echo ${machine}
 if [ $machine == Mac ]; then
   open *.png
 elif [ $machine == Linux ]; then
-  xdg-open *.png
+  ristretto anscombe1.png
 else
   echo "I dont know you"
 fi
