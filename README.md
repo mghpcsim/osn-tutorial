@@ -1,7 +1,8 @@
 # osn-tutorial
 Repo to support the OSN RTD Tutorial (work in progress)
 
-Use the below Binder link to start up the OSN-desktop
+Use the below Binder link to start up the OSN-desktop in the cloud and follow along with
+that hands on exercises!
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mghpcsim/osn-desktop.git/HEAD)
 
